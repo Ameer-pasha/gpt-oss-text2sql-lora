@@ -4,6 +4,7 @@ Fine-tuning **gpt-oss-20b** to turn a plain-English business question plus a dat
 
 > **Status: experimental, work in progress.** A 30-step proof-of-pipeline run is finished. Evaluation against the base model is still in progress, so this repo makes no accuracy claims yet.
 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ameer-pasha/gpt-oss-text2sql-lora/blob/main/nb/gpt-oss-(20B)-Fine-tuning.ipynb)
 
 - **Notebook:** `nb/gpt-oss-(20B)-Fine-tuning.ipynb`
